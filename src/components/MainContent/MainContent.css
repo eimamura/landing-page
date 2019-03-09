@@ -1,0 +1,35 @@
+.mainContent {
+    height: 300px;
+    width: 100%;
+    background: red;
+    display: flex;
+}
+
+#box-1 {
+    background: yellow;
+    flex: 2;
+}
+
+#box-2 {
+    background: yellowgreen;
+    flex: 1;
+}
+
+#box-3 {
+    background: orchid;
+    flex: 1;
+}
+
+@media (max-width: 1024px) {
+    .mainContent {
+        flex-direction: column;
+    }
+
+    #box-1 {
+        display: none;
+    }
+}
+
+span {
+    cursor: pointer;
+}
