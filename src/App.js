@@ -10,6 +10,7 @@ class App extends Component {
         <MainContent />
         <div id="test">test</div>
         <div id="test">test2</div>
+        <div id="deadmaster">master</div>
       </div>
     );
   }
