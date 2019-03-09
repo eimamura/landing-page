@@ -1,0 +1,48 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "start": "webpack-dev-server --hot --inline --watch-content-base --content-base public/ --open-page index.html ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erielcio",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/polyfill": "^7.2.5",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/register": "^7.0.0",
+    "babel": "^6.23.0",
+    "babel-loader": "^8.0.5",
+    "css-loader": "^2.1.0",
+    "datatables": "^1.10.18",
+    "datatables.net": "^1.10.19",
+    "fullcalendar": "^3.10.0",
+    "jquery": "^3.3.1",
+    "moment": "^2.24.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-router": "^4.3.1",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1",
+    "yarn": "^1.13.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erielcio/landing-page.git"
+  },
+  "keywords": [
+    "landing-page"
+  ],
+  "bugs": {
+    "url": "https://github.com/Erielcio/landing-page/issues"
+  },
+  "homepage": "https://github.com/Erielcio/landing-page#readme",
+  "description": ""
+}
