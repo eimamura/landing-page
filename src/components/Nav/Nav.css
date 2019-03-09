@@ -1,0 +1,16 @@
+.nav {
+    border: 1px solid darkblue;
+    background: cadetblue;
+    padding: 5px;
+}
+
+.title {
+    color: whitesmoke;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.main {
+    color: white;
+}
