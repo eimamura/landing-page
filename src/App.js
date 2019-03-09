@@ -11,6 +11,7 @@ class App extends Component {
         <div id="test">test</div>
         <div id="test">test2</div>
         <div id="deadmaster">master</div>
+        <h1>Hello Github</h1>
       </div>
     );
   }
