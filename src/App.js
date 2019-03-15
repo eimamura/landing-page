@@ -40,7 +40,7 @@ function App () {
         <Route path="/users/" component={Users} />
         ok!!
         ok!!!
-        new
+        new2
       </div>
     </Router>
   );
