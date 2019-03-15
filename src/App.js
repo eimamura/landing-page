@@ -38,9 +38,7 @@ function App () {
         bb
         aa
         <Route path="/users/" component={Users} />
-        ok!!
-        ok!!!
-        new2
+
       </div>
     </Router>
   );
