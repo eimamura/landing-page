@@ -1,2 +1,2 @@
 # landing-page
-My Landing Page Portfolio
+Landing Page
